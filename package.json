@@ -1,0 +1,7 @@
+{
+  "name": "JavaScript-DSA-practice",
+  "packageManager": "yarn@3.2.0",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
