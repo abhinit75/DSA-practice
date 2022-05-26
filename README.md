@@ -1,1 +1,1 @@
-# JavaScript-DSA-practice
+# DSA-practice
